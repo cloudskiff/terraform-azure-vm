@@ -1,0 +1,3 @@
+azure_region   = "northeurope"
+vm_size        = "Standard_B1ls"
+ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDw2eOju9Rf1WBW/7YhqOJTRUcLDzFcnw59RwkZO/rNpEVXgC891SahYlS59C3tRbc7e35BQ8nxr6XH3VBjaSs+Z/CzFQI81FjYuQ4jxXH/3YL8+8NUXOR7u0j1tS+swrVSfIkE92WHxbS1DSQ8wl13EirvXo3n/ucothwNb+QfscuVZyb6vo/9J+h1xg3rZLnJAlV/YamqqdMi7J4lBkCu/nUYnuxrdIwdu995MeuHHLqaRWzmwYHejha00p8ttOVrD8TGQGGJwMaCMrTz6npo55oqcupe3NTvhgoeXzvRkjBGt90HgOLr7/AjUxDS5yrSV2ND9693ARYDqeKo6P6h"
